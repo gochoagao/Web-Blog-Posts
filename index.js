@@ -69,4 +69,4 @@ app.listen(port, () => {
   console.log(`Server running on port ${port}`);
 });
 
-//CRUD --> here 1 array is used for: .push() TO CREATE, .find() TO READ, .map() TO UPDATE, .filter() TO READ
+//CRUD --> here 1 array is used for: .push() TO CREATE, .find() TO READ, .map() TO UPDATE, .filter() TO DELETE
